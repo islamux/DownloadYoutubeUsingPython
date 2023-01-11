@@ -2,4 +2,9 @@
 Download youtbe using python 
 
 # How to excute command 
-python3 download_youtube.py link_of_youtube_to_download
+For terminal version 
+python3 name_of_file.py link_of_youtube_to_download
+
+For tkinter version
+python3 name_of_file.py
+
